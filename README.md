@@ -6,4 +6,9 @@ comando para crear carpetas en ***Linux***:
 ```
 $ mkdir Moodle
 ```
+
 2. Nos pasamos a la carpeta Moodle\ en donde realizaremos toda la actividad, usando el siguiente comando:
+```
+$ cd Moodle\
+```
+![Creación de la carpeta](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/d6dc3721-f9ee-4098-a77f-fa75adba9028)
