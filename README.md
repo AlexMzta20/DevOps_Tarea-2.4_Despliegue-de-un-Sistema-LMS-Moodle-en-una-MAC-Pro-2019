@@ -7,4 +7,4 @@ comando para crear carpetas en ***Linux***:
 ```
 $ mkdir Moodle
 ```
-<pre>
+</pre>
