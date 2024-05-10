@@ -76,7 +76,7 @@ $ docker ps
 - **Usuario:** _raul_
 - **Contraseña:** _E5un53cr3t0!_
 - **Nombre completo:** _Raúl Cáceres Escalante_
-- **Dirección de correo:** _raul.ca@merida.tecnm..mx_
+- **Dirección de correo:** _raul.ca@merida.tecnm.mx_
 
 ![Primer usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/e40245bd-b55a-4641-b2e8-d25a75dec016)
 
@@ -84,7 +84,7 @@ $ docker ps
 - **Usuario:** _nury_
 - **Contraseña:** _E5un53cr3t0!_
 - **Nombre completo:** _Nury Colorado Pat_
-- **Dirección de correo:** _nury.co@merida.tecnm..mx_
+- **Dirección de correo:** _nury.co@merida.tecnm.mx_
 
 ![Segundo usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/7c4b863b-81cd-4db2-b4b1-663ebd56daa1)
 
@@ -92,7 +92,7 @@ $ docker ps
 - **Usuario:** _raul_
 - **Contraseña:** _E5un53cr3t0!_
 - **Nombre completo:** _Angel Raymundo Can Aguilar_
-- **Dirección de correo:** _angel.ca@merida.tecnm..mx_
+- **Dirección de correo:** _angel.ca@merida.tecnm.mx_
 
 ![Tercer usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/bbb2bfa6-53c5-41c5-983e-d02ab6e8d27d)
 
@@ -100,7 +100,7 @@ $ docker ps
 - **Usuario:** _enrique_
 - **Contraseña:** _E5un53cr3t0!_
 - **Nombre completo:** _Enrique Alejandro Chuc Mezeta_
-- **Dirección de correo:** _enrique.ch@merida.tecnm..mx_
+- **Dirección de correo:** _enrique.ch@merida.tecnm.mx_
 
 ![Cuarto usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/da0aecf3-ecd8-4003-8a6a-6690cc70bc7f)
 
