@@ -22,11 +22,11 @@ $ url -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/moo
 $ docker compose up
 ```
 ![Levantamos el Moodle](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/e3bc09e3-0fbd-4f2b-bd3b-87b1cc5da133)
-
+>**Nota:** Levantamos el Moodle.
 ![Ejecutando el comando](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/c39ff6b1-46d4-4aad-8517-e3bfbb464735)
-
+>**Nota:** Ejecución del comando.
 ![Finalización del comando](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/dbab5658-db55-4b83-876f-cf7ec283c5a3)
-
+>**Nota:** Finalización de la creación de los contenedores.
 5. Para verificar que el servicio de Moodle está activo usamos el siguiente comando:
 ```
 $ docker ps
@@ -134,12 +134,12 @@ Es importante realizar la verificación de que podemos acceder a los nuevos usua
 ![Usuario Nury](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/1ce9bd2d-5e1c-4b35-a5a9-a4d983504e8d)
 >**Usuario:** Nury Colorado Pat.
 
-2. Accedemos primero al usuario _Angel Raymundo Can Aguilar_ para verificar que todo este correcto.
+2. Accedemos segundo al usuario _Angel Raymundo Can Aguilar_ para verificar que todo este correcto.
 
 ![Usuario Angel](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/a3aa467e-2340-4b33-a33d-e92a40928da8)
 >**Usuario:** Angel Raymundo Can Aguilar.
 
-3. Accedemos primero al usuario _Enrique Alejandro Chuc Mezeta_ para verificar que todo este correcto.
+3. Accedemos tercero al usuario _Enrique Alejandro Chuc Mezeta_ para verificar que todo este correcto.
 
 ![Usuario Enrique](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/9ba47576-a26e-4aa6-b403-981a57d08b42)
 >**Usuario:** Enrique Alejandro Chuc Mezeta.
