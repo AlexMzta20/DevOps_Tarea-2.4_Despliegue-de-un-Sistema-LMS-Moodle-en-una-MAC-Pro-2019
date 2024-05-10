@@ -89,7 +89,7 @@ $ docker ps
 ![Segundo usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/7c4b863b-81cd-4db2-b4b1-663ebd56daa1)
 
 7. Creamos el tercer usuario llamado "**Angel Raymundo Can Aguilar**" junto con su correo y contraseña correspondientes para poder accesar a su perfil.
-- **Usuario:** _raul_
+- **Usuario:** _angel_
 - **Contraseña:** _E5un53cr3t0!_
 - **Nombre completo:** _Angel Raymundo Can Aguilar_
 - **Dirección de correo:** _angel.ca@merida.tecnm.mx_
