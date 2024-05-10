@@ -22,13 +22,13 @@ $ url -sSL https://raw.githubusercontent.com/bitnami/containers/main/bitnami/moo
 $ docker compose up
 ```
 ![Levantamos el Moodle](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/e3bc09e3-0fbd-4f2b-bd3b-87b1cc5da133)
->**Nota:** Levantamos el Moodle.
+>**Nota:** _Levantamos el Moodle._
 
 ![Ejecutando el comando](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/c39ff6b1-46d4-4aad-8517-e3bfbb464735)
->**Nota:** Ejecución del comando.
+>**Nota:** _Ejecución del comando._
 
 ![Finalización del comando](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/dbab5658-db55-4b83-876f-cf7ec283c5a3)
->**Nota:** Finalización de la creación de los contenedores.
+>**Nota:** _Finalización de la creación de los contenedores._
 
 5. Para verificar que el servicio de Moodle está activo usamos el siguiente comando:
 ```
@@ -153,7 +153,7 @@ En este examen tuvimos la oportunidad de profundizar en algunos conceptos que ya
 Al principio nos costó trabajo tomar capturas de pantalla al ser un entorno relativamente diferente al ser ios, pero con el tiempo nos acostumbramos y logramos completar el examen. Realmente, el proceso fue muy similar al que hicimos en Windows, aunque con algunas variaciones debido a que se realizo en la mac. Además, logramos aplicar lo aprendido en nuestra práctica anterior, encontrando que esta vez era más sencillo ejecutar los comandos de Docker Compose.
 
 ## Enrique Alejandro Chuc Mezeta
-
+En este examen, no solo consolidamos nuestra comprensión de Docker Compose, adquirida en prácticas anteriores, sino que la aplicamos por primera vez en un entorno iOS, una nueva experiencia no solo para mí, si no también para mis compañeros de equipo. Si bien al principio nos encontramos con desafíos como tomar capturas de pantalla, realizar el copiado de texto, el pegado del mismo o el simple hecho de usar el mouse para subir y bajar, así como cerrar ventanas o mminimizar, rápidamente nos adaptamos y completamos el examen con éxito pues al hacerlo de manera colaborativa nos fuimos coordinando para finalizar de manera exitosa. La experiencia nos confirmó que los principios básicos de Docker Compose son consistentes en diferentes sistemas operativos, aunque con algunas variaciones específicas de iOS en comparación del entorno Windows al que tanto estamos acostumbrados. Además, pudimos repasar nuestros conocimientos de la práctica anterior, lo que facilitó la ejecución de los comandos de Docker Compose en el examen porque prácticamente este era similar con unas pequeñas variaciones.
 
 ## Nury Colorado Pat
 En conclusión, en este examen pudimos a reforzar algunos conocimientos vistos en anteriores prácticas, las cuales eran de Docker Compuse, solo que esta vez pudimos observar como se maneja en un sistema operativo, en lo personal, es la primera vez que manejaba IOS, al inicio se nos complico el hecho de tomar capturas, sin embargo, después agarramos la practica y pudimos hacer el examen, en si era lo mismo que en Windows, solo que con algunas cosas eran distintas. También pudimos reforzar nuestros conocimientos de la anterior práctica, en esta ocasión se nos hizo más fácil realizar los comandos de Docker Compuse.
