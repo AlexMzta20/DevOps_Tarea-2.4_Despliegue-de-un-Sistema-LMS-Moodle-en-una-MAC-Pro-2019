@@ -31,7 +31,7 @@ $ docker compose up
 ```
 $ docker ps
 ```
-![Comprobar servicio de Moodle activo](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/90824487-10ef-4f5b-bf0c-a0d5153eb33d)
+![Comprobar servicio de Moodle activo](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/69813bc0-7e58-40ea-b472-937cd76e5a6d)
 >**Nota:** _Este paso se realiza para verificar que el contenedor de nuestro servicio de Moodle si se haya creado correctamente y este funcionado sin problemas._
 
 6. Debemos ir al navegador y si colocamos "_localhost_" deberíamos visualizar la página de inicio de Moodle.
@@ -128,21 +128,21 @@ $ docker ps
 ![Home Curso 1](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/c10f893c-0fbf-412e-a23b-3a45bd39be7d)
 
 ### Revisión de usuarios creados
-Es importante realizar la verificación de que podemos acceder a los nuevos usuarios ccreados. Por lo tanto, lo siguiente son las pruebas de acceso.
+Es importante realizar la verificación de que podemos acceder a los nuevos usuarios creados. Por lo tanto, lo siguiente son las pruebas de acceso.
 1. Accedemos primero al usuario _Nury Colorado Pat_ para verificar que todo este correcto.
 
 ![Usuario Nury](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/1ce9bd2d-5e1c-4b35-a5a9-a4d983504e8d)
->**Usuario:** _Nury Colorado Pat._
+>**Usuario:** Nury Colorado Pat.
 
 2. Accedemos primero al usuario _Angel Raymundo Can Aguilar_ para verificar que todo este correcto.
 
 ![Usuario Angel](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/a3aa467e-2340-4b33-a33d-e92a40928da8)
->**Usuario:** _Angel Raymundo Can Aguilar._
+>**Usuario:** Angel Raymundo Can Aguilar.
 
 3. Accedemos primero al usuario _Enrique Alejandro Chuc Mezeta_ para verificar que todo este correcto.
 
 ![Usuario Enrique](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/9ba47576-a26e-4aa6-b403-981a57d08b42)
->**Nota:** _Enrique Alejandro Chuc Mezeta._
+>**Usuario:** Enrique Alejandro Chuc Mezeta.
 
 
 
