@@ -38,7 +38,9 @@ $ docker ps
 
 ![Verificando que funciona el Moodle](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/7d7bb899-8cc1-4dd6-8c73-80d0401b85f5)
 
-7. Usando el usuario y contraseña que nos proporciona Moodle tenemos acceso al login e iniciamos sesión.
+## Configuración de Moodle
+
+1. Usando el usuario y contraseña que nos proporciona Moodle tenemos acceso al login e iniciamos sesión.
 
 ![Usuario y contraseña](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/6bbacb24-3f70-44b1-9122-4d28d3dfb452)
 >**Nota:** _Usuario y contraseña que debemos ingresar para tener acceso._
@@ -48,6 +50,4 @@ $ docker ps
 ![Inicio del Moodle](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/27c14457-f0ea-4af2-b4ed-96bc1492ac66)
 >**Nota:** _La anterior imagen muestra la página de inicio del administrador._
 
-# Configuración del Moodle
-
-1. 
+2. 
