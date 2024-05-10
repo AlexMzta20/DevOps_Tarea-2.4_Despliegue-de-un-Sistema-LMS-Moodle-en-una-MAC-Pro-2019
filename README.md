@@ -39,7 +39,7 @@ $ docker ps
 ![Verificando que funciona el Moodle](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/7d7bb899-8cc1-4dd6-8c73-80d0401b85f5)
 
 ## Configuración de Moodle
-
+En este paso es importante tener acceso al Moodle por medio del _usuario administrador_ por defecto. Para ello consultamos [bitnami/moodle](https://hub.docker.com/r/bitnami/moodle).
 1. Usando el usuario y contraseña que nos proporciona Moodle tenemos acceso al login e iniciamos sesión. Hacemos clic en la opción "***Log In***" de la parte superior derecha. Se nos proporcionan las credenciales por defecto y son las siguientes:
 - **Usuario:** user
 - **Contraseña:** bitnami
@@ -144,5 +144,13 @@ Es importante realizar la verificación de que podemos acceder a los nuevos usua
 ![Usuario Enrique](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/9ba47576-a26e-4aa6-b403-981a57d08b42)
 >**Usuario:** Enrique Alejandro Chuc Mezeta.
 
+# Conclusiones finales
+## Angel Raymundo Can Aguilar
+En este examen tuvimos la oportunidad de profundizar en algunos conceptos que ya habíamos visto en prácticas anteriores relacionadas con Docker Compose. Esta vez, sin embargo, pudimos ver cómo se implementa en un sistema operativo diferente.
+Al principio nos costó trabajo tomar capturas de pantalla al ser un entorno relativamente diferente al ser ios, pero con el tiempo nos acostumbramos y logramos completar el examen. Realmente, el proceso fue muy similar al que hicimos en Windows, aunque con algunas variaciones debido a que se realizo en la mac. Además, logramos aplicar lo aprendido en nuestra práctica anterior, encontrando que esta vez era más sencillo ejecutar los comandos de Docker Compose.
+
+## Enrique Alejandro Chuc Mezeta
 
 
+## Nury Colorado Pat
+En conclusión, en este examen pudimos a reforzar algunos conocimientos vistos en anteriores prácticas, las cuales eran de Docker Compuse, solo que esta vez pudimos observar como se maneja en un sistema operativo, en lo personal, es la primera vez que manejaba IOS, al inicio se nos complico el hecho de tomar capturas, sin embargo, después agarramos la practica y pudimos hacer el examen, en si era lo mismo que en Windows, solo que con algunas cosas eran distintas. También pudimos reforzar nuestros conocimientos de la anterior práctica, en esta ocasión se nos hizo más fácil realizar los comandos de Docker Compuse.
