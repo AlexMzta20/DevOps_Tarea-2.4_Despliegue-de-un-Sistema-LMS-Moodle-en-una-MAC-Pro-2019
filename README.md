@@ -52,4 +52,14 @@ $ docker ps
 ![Inicio del Moodle](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/27c14457-f0ea-4af2-b4ed-96bc1492ac66)
 >**Nota:** _La anterior imagen muestra la página de inicio del administrador._
 
-2. 
+## Poner Moodle en marcha para la configuración anterior
+1. Después de la configuración anterior, hay que crear un curso llamado “**Curso 1**”. Para ello vamos al apartado de ***My courses*** y agregamos un nuevo curso, el cual tendrá el nombre antes mencionado.
+
+![Home](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/1030fb9a-04c2-44cc-9ebb-f5bf7cade80f)
+
+2. Nos mostrará la siguiente ventana en donde podremos añadir el nombre del curso, colocamos su nombre del curso y simplemente le damos a crear.
+
+![Crear curso llamado Curso 1](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/544787dc-dcb0-4cc5-9a23-f28bc91b5f07)
+
+3. 
+
