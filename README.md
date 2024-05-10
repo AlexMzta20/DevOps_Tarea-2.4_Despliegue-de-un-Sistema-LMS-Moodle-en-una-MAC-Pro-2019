@@ -32,7 +32,7 @@ $ docker compose up
 $ docker ps
 ```
 ![Comprobar servicio de Moodle activo](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/90824487-10ef-4f5b-bf0c-a0d5153eb33d)
-Nota: Este paso se realiza para verificar que el contenedor de nuestro servicio de Moodle si se haya creado correctamente y este funcionado sin problemas.
+>Nota: Este paso se realiza para verificar que el contenedor de nuestro servicio de Moodle si se haya creado correctamente y este funcionado sin problemas.
 
 6. Debemos ir al navegador y si colocamos "_localhost_" deberíamos visualizar la página de inicio de Moodle.
 
