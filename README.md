@@ -38,4 +38,7 @@ $ docker compose up
 
 ![Acceso al login](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/9299af7d-b7c1-44c3-868b-76c6cddd6c3d)
 
+![Inicio del Moodle](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/27c14457-f0ea-4af2-b4ed-96bc1492ac66)
+>**Nota:** _La siguiente imagen muestra la pagina de inicio del administrador._
+
 7. 
