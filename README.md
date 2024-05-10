@@ -43,6 +43,7 @@ $ docker ps
 1. Usando el usuario y contraseña que nos proporciona Moodle tenemos acceso al login e iniciamos sesión. Hacemos clic en la opción "Log In" de la parte superior derecha. Se nos proporcionan las credenciales por defecto y son las siguientes:
 - **Usuario:** user
 - **Contraseña:** bitnami
+
 ![Usuario y contraseña](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/6bbacb24-3f70-44b1-9122-4d28d3dfb452)
 >**Nota:** _Usuario y contraseña que debemos ingresar para tener acceso._
 
