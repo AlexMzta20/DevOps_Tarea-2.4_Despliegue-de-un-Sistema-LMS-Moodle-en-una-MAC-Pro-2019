@@ -40,7 +40,7 @@ $ docker ps
 
 ## Configuración de Moodle
 
-1. Usando el usuario y contraseña que nos proporciona Moodle tenemos acceso al login e iniciamos sesión. Hacemos clic en la opción "Log In" de la parte superior derecha. Se nos proporcionan las credenciales por defecto y son las siguientes:
+1. Usando el usuario y contraseña que nos proporciona Moodle tenemos acceso al login e iniciamos sesión. Hacemos clic en la opción "***Log In***" de la parte superior derecha. Se nos proporcionan las credenciales por defecto y son las siguientes:
 - **Usuario:** user
 - **Contraseña:** bitnami
 
