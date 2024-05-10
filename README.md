@@ -57,9 +57,18 @@ $ docker ps
 
 ![Home](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/1030fb9a-04c2-44cc-9ebb-f5bf7cade80f)
 
-2. Nos mostrará la siguiente ventana en donde podremos añadir el nombre del curso, colocamos su nombre del curso y simplemente le damos a crear.
+2. Nos mostrará la siguiente ventana en donde podremos añadir el nombre del curso, colocamos su nombre corto del curso y le asignamos una categoría. Finalmente, solo le damos a crear.
 
 ![Crear curso llamado Curso 1](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/544787dc-dcb0-4cc5-9a23-f28bc91b5f07)
 
-3. 
+3. Después de lo anterior, si lo hicimos correctamente podremos observar la pantalla del curso creado.
+
+![Pantalla del curso creado](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/822581b6-40d6-4e4a-97ed-7aef6f6ad681)
+
+4. Como siguiente punto hay que crear los siguientes Roles/Usuarios. Para ello vamos al apartado de ***/Site administration/Users/Add a new user*** y añadimos nuevos roles/usuarios:
+- Como administrador del Moodle, alguno del Equipo.
+- Como profesor, otro integrante del equipo.
+- Todos los integrantes del equipo deben estar como estudiantes.
+
+![Ir a crear usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/913a08b1-b07f-44be-a586-a1c3da037590)
 
