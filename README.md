@@ -66,9 +66,46 @@ $ docker ps
 ![Pantalla del curso creado](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/822581b6-40d6-4e4a-97ed-7aef6f6ad681)
 
 4. Como siguiente punto hay que crear los siguientes Roles/Usuarios. Para ello vamos al apartado de ***/Site administration/Users/Add a new user*** y añadimos nuevos roles/usuarios:
-- Como administrador del Moodle, alguno del Equipo.
-- Como profesor, otro integrante del equipo.
-- Todos los integrantes del equipo deben estar como estudiantes.
+- Como **administrador** del Moodle, alguno del Equipo.
+- Como **profesor**, otro integrante del equipo.
+- Todos los integrantes del equipo deben estar como **estudiantes**.
 
 ![Ir a crear usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/913a08b1-b07f-44be-a586-a1c3da037590)
 
+5. Creamos el primer usuario llamado "**Raúl Cáceres Escalante**" junto con su correo y contraseña correspondientes para poder accesar a su perfil.
+- **Usuario:** _raul_
+- **Contraseña:** _E5un53cret0!_
+- **Nombre completo:** _Raúl Cáceres Escalante_
+- **Dirección de correo:** _raul.ca@merida.tecnm..mx_
+
+![Primer usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/e40245bd-b55a-4641-b2e8-d25a75dec016)
+
+6. Creamos el segundo usuario llamado "**Nury Colorado Pat**" junto con su correo y contraseña correspondientes para poder accesar a su perfil.
+- **Usuario:** _nury_
+- **Contraseña:** _E5un53cret0!_
+- **Nombre completo:** _Nury Colorado Pat_
+- **Dirección de correo:** _nury.co@merida.tecnm..mx_
+
+![Segundo usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/7c4b863b-81cd-4db2-b4b1-663ebd56daa1)
+
+7. Creamos el tercer usuario llamado "**Angel Raymundo Can Aguilar**" junto con su correo y contraseña correspondientes para poder accesar a su perfil.
+- **Usuario:** _raul_
+- **Contraseña:** _E5un53cret0!_
+- **Nombre completo:** _Angel Raymundo Can Aguilar_
+- **Dirección de correo:** _angel.ca@merida.tecnm..mx_
+
+![Tercer usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/bbb2bfa6-53c5-41c5-983e-d02ab6e8d27d)
+
+5. Creamos el cuarto usuario llamado "Enrique Alejandro Chuc Mezeta" junto con su correo y contraseña correspondientes para poder accesar a su perfil.
+- **Usuario:** _enrique_
+- **Contraseña:** _E5un53cret0!_
+- **Nombre completo:** _Enrique Alejandro Chuc Mezeta_
+- **Dirección de correo:** _enrique.ch@merida.tecnm..mx_
+
+![Cuarto usuario](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/da0aecf3-ecd8-4003-8a6a-6690cc70bc7f)
+
+6. Si todo lo hicimos correctamente, podremos visualizar todos los usuarios creados anteriormente al guardar los cambios. Como en la siguiente captura se aprecia:
+
+![Visualización de usuarios](https://github.com/AlexMzta20/DevOps_Tarea-2.4_Despliegue-de-un-Sistema-LMS-Moodle-en-una-MAC-Pro-2019/assets/105833304/9f01e634-4d07-4df1-a599-52593f715b0f)
+
+7. 
