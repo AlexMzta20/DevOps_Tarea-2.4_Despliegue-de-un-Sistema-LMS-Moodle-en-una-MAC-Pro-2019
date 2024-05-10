@@ -74,7 +74,7 @@ $ docker ps
 
 5. Creamos el primer usuario llamado "**Raúl Cáceres Escalante**" junto con su correo y contraseña correspondientes para poder accesar a su perfil.
 - **Usuario:** _raul_
-- **Contraseña:** _E5un53cret0!_
+- **Contraseña:** _E5un53cr3t0!_
 - **Nombre completo:** _Raúl Cáceres Escalante_
 - **Dirección de correo:** _raul.ca@merida.tecnm..mx_
 
@@ -82,7 +82,7 @@ $ docker ps
 
 6. Creamos el segundo usuario llamado "**Nury Colorado Pat**" junto con su correo y contraseña correspondientes para poder accesar a su perfil.
 - **Usuario:** _nury_
-- **Contraseña:** _E5un53cret0!_
+- **Contraseña:** _E5un53cr3t0!_
 - **Nombre completo:** _Nury Colorado Pat_
 - **Dirección de correo:** _nury.co@merida.tecnm..mx_
 
@@ -90,7 +90,7 @@ $ docker ps
 
 7. Creamos el tercer usuario llamado "**Angel Raymundo Can Aguilar**" junto con su correo y contraseña correspondientes para poder accesar a su perfil.
 - **Usuario:** _raul_
-- **Contraseña:** _E5un53cret0!_
+- **Contraseña:** _E5un53cr3t0!_
 - **Nombre completo:** _Angel Raymundo Can Aguilar_
 - **Dirección de correo:** _angel.ca@merida.tecnm..mx_
 
@@ -98,7 +98,7 @@ $ docker ps
 
 5. Creamos el cuarto usuario llamado "Enrique Alejandro Chuc Mezeta" junto con su correo y contraseña correspondientes para poder accesar a su perfil.
 - **Usuario:** _enrique_
-- **Contraseña:** _E5un53cret0!_
+- **Contraseña:** _E5un53cr3t0!_
 - **Nombre completo:** _Enrique Alejandro Chuc Mezeta_
 - **Dirección de correo:** _enrique.ch@merida.tecnm..mx_
 
